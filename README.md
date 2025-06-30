@@ -108,6 +108,6 @@ Edit
 
 ---
 
-## ✅ If you want, I can also create a `requirements.txt` file for you. Would you like that?
+
 
 
