@@ -1,4 +1,4 @@
-# 🎙️ Windows Voice Assistant (Jarvis AI)
+# 🎙️ Windows Voice Assistant (NOVA AI)
 
 A simple Windows-based voice assistant built with Python. This assistant can perform tasks like answering questions, telling jokes, reporting the time and date, searching the web, opening applications, and fetching weather updates.
 
